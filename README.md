@@ -23,7 +23,8 @@ Below is a summary of the protocol findings documented in this repository. Each 
 
 - Prebit.io:
 - DYAD stablecoin:
-- TITLES.xyz:
+- TITLES.xyz: Two issues confirmed [Sherlock.xyz Report](https://audits.sherlock.xyz/contests/326/report)
+- Exactly Protocol
 
 For detailed information, please refer to the corresponding PDF files.
 
