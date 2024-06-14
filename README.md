@@ -4,10 +4,12 @@ Welcome to the Smart Contract Security Findings repository! This repository is d
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Repository Content](#repository-content)
-- [Summary of Protocol Findings](#summary-of-protocol-findings)
-- [Contact](#contact)
+- [Smart Contract Security Findings](#smart-contract-security-findings)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Repository Content](#repository-content)
+  - [Summary of Protocol Findings](#summary-of-protocol-findings)
+  - [Contact](#contact)
 
 ## Introduction
 
@@ -20,15 +22,20 @@ This repository contains a collection of PDF files, each documenting a specific 
 ## Summary of Protocol Findings
 
 Below is a summary of the protocol findings documented in this repository. Each summary provides a brief overview of the vulnerability, its potential impact, and any recommended mitigation strategies.
-
-- Prebit.io:
-- DYAD stablecoin:
-- TITLES.xyz: Two issues confirmed [Sherlock.xyz Report](https://audits.sherlock.xyz/contests/326/report)
+**Private Audits**
+- Prebit.io: PREBIT is a trusted global hub for decentralized market projections.
+**Code4rena Audits**
+- DYAD stablecoin: Two issues confirmed
+- Munchables: One issues confirmed
+- Noya: One issues confirmed
+**Sherlock Audits**
+- TITLES.xyz: Two issues confirmed [Report](https://audits.sherlock.xyz/contests/326/report)
 - Exactly Protocol
+- Midas: One issue confirmed [Report](https://audits.sherlock.xyz/contests/332/report)
 
 For detailed information, please refer to the corresponding PDF files.
 
 ## Contact
 
-If you have any questions, comments, or suggestions regarding the security findings in this repository, please feel free to open an issue or contact the repository owner.
+If you have any questions, comments, or suggestions regarding the security findings in this repository, or if you want to contact me for a private audit! please feel free to open an issue or contact the repository [owner](agh1994@gmail.com).
 
