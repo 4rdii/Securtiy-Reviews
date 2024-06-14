@@ -22,12 +22,15 @@ This repository contains a collection of PDF files, each documenting a specific 
 ## Summary of Protocol Findings
 
 Below is a summary of the protocol findings documented in this repository. Each summary provides a brief overview of the vulnerability, its potential impact, and any recommended mitigation strategies.
+
 **Private Audits**
 - Prebit.io: PREBIT is a trusted global hub for decentralized market projections.
+  
 **Code4rena Audits**
 - DYAD stablecoin: Two issues confirmed
 - Munchables: One issues confirmed
 - Noya: One issues confirmed
+  
 **Sherlock Audits**
 - TITLES.xyz: Two issues confirmed [Report](https://audits.sherlock.xyz/contests/326/report)
 - Exactly Protocol
