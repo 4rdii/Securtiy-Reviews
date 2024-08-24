@@ -13,3 +13,7 @@ In the process of the audit, **1 issues were found by me: 1 high, 0 medium, and 
 NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. ⭐️ Wardens who participate in this audit will get, proportionally to their USDC rewards, 5% of our stars program used to incentivize contributors.
 In the process of the audit, **1 issues were found by me: 1 high, 0 medium, and 0 low**.
 
+## [Vultisig](https://code4rena.com/audits/2024-06-vultisig#top)
+Vultisig is a multi-chain, multi-platform, threshold signature vault/wallet that requires no special hardware.
+In the process of the audit, **1 issues were found by me: 1 high, 0 medium, and 0 low**.
+[LinkToReport](https://code4rena.com/reports/2024-06-vultisig)
