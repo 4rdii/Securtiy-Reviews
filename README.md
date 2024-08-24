@@ -25,18 +25,22 @@ Below is a summary of the protocol findings documented in this repository. Each 
 
 **Private Audits**
 - Prebit.io: PREBIT is a trusted global hub for decentralized market projections.
+
+**CodeHawks Audits**
+- GoldTemple: One issue confirmed
   
 **Code4rena Audits**
 - DYAD stablecoin: Two issues confirmed
-- Munchables: One issues confirmed
-- Noya: One issues confirmed
-  
+- Munchables: One issue confirmed
+- Noya: One issue confirmed
+- VultiSig: One issue confirmed  
 **Sherlock Audits**
 - TITLES.xyz: Two issues confirmed [Report](https://audits.sherlock.xyz/contests/326/report)
 - Exactly Protocol
 - Midas: One issue confirmed [Report](https://audits.sherlock.xyz/contests/332/report)
-
-For detailed information, please refer to the corresponding PDF files.
+- MagicSea: One issue confirmed
+- 
+For detailed information, please refer to the corresponding directory for each website.
 
 ## Contact
 
