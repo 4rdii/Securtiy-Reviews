@@ -29,8 +29,18 @@ An undercover AMA agent (anti-mafia agency) discovered a protocol used by the Ma
 ## First Flight #17: [Dussehra](https://codehawks.cyfrin.io/c/2024-06-Dussehra)
 Dussehra, a major Hindu festival, commemorates the victory of Lord Rama, the seventh avatar of Vishnu, over the demon king Ravana. The festival symbolizes the triumph of good over evil, righteousness over wickedness. The Dussehra protocol allows users to participate in the event of Dussehra. In the audit, **6 issues were found: 3 high, 1 medium, and 2 low** by me.
 
-## First Flight #18: [Dussehra](https://codehawks.cyfrin.io/c/2024-06-Dussehra)
+## First Flight #18: [T-Swap](https://codehawks.cyfrin.io/c/2024-06-t-swap)
 This project is meant to be a permissionless way for users to swap assets between each other at a fair price. You can think of T-Swap as a decentralized asset/token exchange (DEX). T-Swap is known as an Automated Market Maker (AMM) because it doesn't use a normal "order book" style exchange, instead it uses "Pools" of an asset. It is similar to Uniswap. In the audit, **11 issues were found: 4 high, 4 medium, and 3 low** by me.
 
+## First Flight #19: [Mondrian Wallet v2](https://codehawks.cyfrin.io/c/2024-07-Mondrian-Wallet_v2)
+The Mondrian Wallet team is back! And they decided "oh wow, zkSync has native account abstraction! Let's just use that. Also, we introduced a lot of bugs, so let's just make this codebase upgradeable, so that only the owner of the wallet can introduce functionality later as they see fit. Also, the NFT gimmick was silly so, let's not do that again." In the audit, **3 issues were found: 2 high, 1 medium, and 0 low** by me.
 
+
+## First Flight #20: [The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter)
+The Predicter is an innovative competitive betting protocol offering a decentralized and fair way for friends and strangers to make wagers!
+In the audit, **2 issues were found: 2 high, 0 medium, and 0 low** by me.
+
+## First Flight #21: [KittyFi](https://codehawks.cyfrin.io/c/2024-08-kitty-fi)
+KittyFi, a EUR pegged stablecoin based protocol which proactively maintains the user's deposited collateral to earn yield on it via Aave protocol. With KittyFi, the collateral deposited by user will not just remain in there for backing the KittyCoin but will earn yield on it via Aave protocol. By utilizing the interest earned on collateral, the protocol will reduce the risk of user getting liquidated by equally allocating the interest earned on collateral to every user in the pool.
+In the audit, **4 issues were found: 3 high, 1 medium, and 0 low** by me.
 
