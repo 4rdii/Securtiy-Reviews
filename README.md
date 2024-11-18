@@ -28,18 +28,28 @@ Below is a summary of the protocol findings documented in this repository. Each 
 
 **CodeHawks Audits**
 - GoldTemple: One issue confirmed
-  
+- Zaros Part 1: One issue confirmed
+- Tadle: 8 Issues confirmed
+- Liquid Staking: One issue confirmed
+
 **Code4rena Audits**
 - DYAD stablecoin: Two issues confirmed
 - Munchables: One issue confirmed
 - Noya: One issue confirmed
 - VultiSig: One issue confirmed  
+
 **Sherlock Audits**
 - TITLES.xyz: Two issues confirmed [Report](https://audits.sherlock.xyz/contests/326/report)
 - Exactly Protocol
 - Midas: One issue confirmed [Report](https://audits.sherlock.xyz/contests/332/report)
 - MagicSea: One issue confirmed
-- 
+
+**Cantina Audits**
+- Yolo Games: 
+- royco:
+- StakeUp:
+
+  
 For detailed information, please refer to the corresponding directory for each website.
 
 ## Contact
